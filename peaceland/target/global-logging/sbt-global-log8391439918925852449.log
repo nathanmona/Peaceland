@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(early(addDefaultCommands), None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(addDefaultCommands, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(early(initialize), None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(initialize, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(--warn, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(warn, None, None)[0m
+[0m[[0m[33mwarn[0m] [0m[0mthere are 2 keys that are not used by any other settings/tasks:[0m
+[0m[[0m[33mwarn[0m] [0m[0m [0m
+[0m[[0m[33mwarn[0m] [0m[0m* peaceland_mbuma_top / run / logLevel[0m
+[0m[[0m[33mwarn[0m] [0m[0m  +- /Users/nathanjobs/Documents/scala/peaceland_mbuma_top/peaceland_mbuma_top/build.sbt:9[0m
+[0m[[0m[33mwarn[0m] [0m[0m* peaceland_mbuma_top / showSuccess[0m
+[0m[[0m[33mwarn[0m] [0m[0m  +- /Users/nathanjobs/Documents/scala/peaceland_mbuma_top/peaceland_mbuma_top/build.sbt:7[0m
+[0m[[0m[33mwarn[0m] [0m[0m [0m
+[0m[[0m[33mwarn[0m] [0m[0mnote: a setting might still be used by a command; to exclude a key from this `lintUnused` check[0m
+[0m[[0m[33mwarn[0m] [0m[0meither append it to `Global / excludeLintKeys` or call .withRank(KeyRanks.Invisible) on the key[0m

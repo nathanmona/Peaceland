@@ -1,0 +1,260 @@
+Id,Latitude,Longitude,Time,Citizen,Peacescore,Number of words,Words heard
+8,183,22,8:43,laurine,6,3,content;déprimé;agité
+8,183,22,8:43,laurine,33,3,content;déprimé;agité
+8,183,22,8:43,moussa,12,3,content;déprimé;agité
+8,183,22,8:43,timo,12,3,content;déprimé;agité
+8,183,22,8:43,francky,93,3,content;déprimé;agité
+8,183,22,8:43,nathalie,82,3,content;déprimé;agité
+6,22,9,20:18,nathalie,46,1,content
+6,22,9,20:18,nathaniel,9,1,content
+6,22,9,20:18,amanda,39,1,content
+6,22,9,20:18,solene,39,1,content
+6,22,9,20:18,moussa,26,1,content
+6,22,9,20:18,didier,60,1,content
+2,132,18,23:38,ashley,13,4,content;malade;heureux;malade
+2,132,18,23:38,fabrice,92,4,content;malade;heureux;malade
+2,132,18,23:38,moussa,12,4,content;malade;heureux;malade
+2,132,18,23:38,didier,57,4,content;malade;heureux;malade
+2,132,18,23:38,solene,13,4,content;malade;heureux;malade
+0,110,159,1:20,timo,37,5,malade;déprimé;déprimé;apaisé;stressé
+0,110,159,1:20,moussa,37,5,malade;déprimé;déprimé;apaisé;stressé
+0,110,159,1:20,laurine,70,5,malade;déprimé;déprimé;apaisé;stressé
+0,110,159,1:20,nathalie,6,5,malade;déprimé;déprimé;apaisé;stressé
+0,110,159,1:20,nathalie,65,5,malade;déprimé;déprimé;apaisé;stressé
+9,108,79,10:9,nathaniel,86,1,malade
+9,108,79,10:9,francky,100,1,malade
+5,78,55,12:17,amanda,88,6,agité;tendu;stressé;déprimé;malade;en paix
+5,78,55,12:17,solene,33,6,agité;tendu;stressé;déprimé;malade;en paix
+5,78,55,12:17,didier,6,6,agité;tendu;stressé;déprimé;malade;en paix
+5,78,55,12:17,ashley,94,6,agité;tendu;stressé;déprimé;malade;en paix
+5,78,55,12:17,amanda,29,6,agité;tendu;stressé;déprimé;malade;en paix
+3,183,159,23:31,francky,85,7,joyeux;stressé;apaisé;stressé;agité;joyeux;content
+3,183,159,23:31,timo,19,7,joyeux;stressé;apaisé;stressé;agité;joyeux;content
+3,183,159,23:31,nathan,35,7,joyeux;stressé;apaisé;stressé;agité;joyeux;content
+3,183,159,23:31,laurine,94,7,joyeux;stressé;apaisé;stressé;agité;joyeux;content
+3,183,159,23:31,moussa,34,7,joyeux;stressé;apaisé;stressé;agité;joyeux;content
+3,183,159,23:31,nathalie,30,7,joyeux;stressé;apaisé;stressé;agité;joyeux;content
+3,183,159,23:31,amanda,77,7,joyeux;stressé;apaisé;stressé;agité;joyeux;content
+3,183,159,23:31,kamily,15,7,joyeux;stressé;apaisé;stressé;agité;joyeux;content
+3,183,159,23:31,solene,17,7,joyeux;stressé;apaisé;stressé;agité;joyeux;content
+3,183,159,23:31,nathaniel,84,7,joyeux;stressé;apaisé;stressé;agité;joyeux;content
+1,30,135,16:33,ashley,55,2,apaisé;stressé
+1,30,135,16:33,laurine,32,2,apaisé;stressé
+1,30,135,16:33,timo,29,2,apaisé;stressé
+1,30,135,16:33,moussa,15,2,apaisé;stressé
+6,87,76,5:48,nathalie,84,5,heureux;heureux;tendu;déprimé;joyeux
+6,87,76,5:48,ashley,43,5,heureux;heureux;tendu;déprimé;joyeux
+6,87,76,5:48,nathaniel,63,5,heureux;heureux;tendu;déprimé;joyeux
+6,87,76,5:48,amanda,91,5,heureux;heureux;tendu;déprimé;joyeux
+6,87,76,5:48,moussa,45,5,heureux;heureux;tendu;déprimé;joyeux
+6,87,76,5:48,nathaniel,10,5,heureux;heureux;tendu;déprimé;joyeux
+6,87,76,5:48,solene,8,5,heureux;heureux;tendu;déprimé;joyeux
+6,87,76,5:48,laurine,24,5,heureux;heureux;tendu;déprimé;joyeux
+6,87,76,5:48,ashley,37,5,heureux;heureux;tendu;déprimé;joyeux
+3,2,0,15:49,solene,11,6,malade;malade;agité;apaisé;déprimé;agité
+3,2,0,15:49,solene,22,6,malade;malade;agité;apaisé;déprimé;agité
+3,2,0,15:49,didier,43,6,malade;malade;agité;apaisé;déprimé;agité
+3,2,0,15:49,amanda,70,6,malade;malade;agité;apaisé;déprimé;agité
+3,2,0,15:49,solene,6,6,malade;malade;agité;apaisé;déprimé;agité
+3,2,0,15:49,moussa,43,6,malade;malade;agité;apaisé;déprimé;agité
+3,2,0,15:49,solene,31,6,malade;malade;agité;apaisé;déprimé;agité
+6,140,158,19:26,ashley,58,9,déprimé;agité;apaisé;déprimé;stressé;joyeux;heureux;malade;stressé
+6,140,158,19:26,solene,26,9,déprimé;agité;apaisé;déprimé;stressé;joyeux;heureux;malade;stressé
+5,138,156,22:23,fabrice,91,7,stressé;en paix;tendu;content;agité;en paix;joyeux
+5,138,156,22:23,timo,26,7,stressé;en paix;tendu;content;agité;en paix;joyeux
+5,138,156,22:23,nathan,97,7,stressé;en paix;tendu;content;agité;en paix;joyeux
+5,138,156,22:23,nathan,18,7,stressé;en paix;tendu;content;agité;en paix;joyeux
+5,138,156,22:23,laurine,77,7,stressé;en paix;tendu;content;agité;en paix;joyeux
+5,138,156,22:23,nathalie,96,7,stressé;en paix;tendu;content;agité;en paix;joyeux
+5,138,156,22:23,solene,10,7,stressé;en paix;tendu;content;agité;en paix;joyeux
+5,138,156,22:23,nathalie,96,7,stressé;en paix;tendu;content;agité;en paix;joyeux
+5,138,156,22:23,fabrice,25,7,stressé;en paix;tendu;content;agité;en paix;joyeux
+1,94,19,2:3,laurine,43,9,heureux;malade;déprimé;heureux;joyeux;content;agité;content;en paix
+1,94,19,2:3,kamily,54,9,heureux;malade;déprimé;heureux;joyeux;content;agité;content;en paix
+1,94,19,2:3,solene,1,9,heureux;malade;déprimé;heureux;joyeux;content;agité;content;en paix
+1,94,19,2:3,kamily,62,9,heureux;malade;déprimé;heureux;joyeux;content;agité;content;en paix
+1,94,19,2:3,kamily,60,9,heureux;malade;déprimé;heureux;joyeux;content;agité;content;en paix
+1,94,19,2:3,francky,22,9,heureux;malade;déprimé;heureux;joyeux;content;agité;content;en paix
+1,94,19,2:3,nathalie,67,9,heureux;malade;déprimé;heureux;joyeux;content;agité;content;en paix
+1,94,19,2:3,didier,94,9,heureux;malade;déprimé;heureux;joyeux;content;agité;content;en paix
+1,94,19,2:3,laurine,56,9,heureux;malade;déprimé;heureux;joyeux;content;agité;content;en paix
+1,94,19,2:3,moussa,26,9,heureux;malade;déprimé;heureux;joyeux;content;agité;content;en paix
+1,94,19,2:3,timo,11,9,heureux;malade;déprimé;heureux;joyeux;content;agité;content;en paix
+1,120,138,19:27,nathalie,40,7,malade;stressé;malade;en paix;heureux;content;malade
+1,120,138,19:27,francky,57,7,malade;stressé;malade;en paix;heureux;content;malade
+1,120,138,19:27,francky,13,7,malade;stressé;malade;en paix;heureux;content;malade
+0,103,5,10:59,ashley,86,6,joyeux;joyeux;tendu;en paix;tendu;en paix
+0,103,5,10:59,francky,57,6,joyeux;joyeux;tendu;en paix;tendu;en paix
+0,103,5,10:59,francky,76,6,joyeux;joyeux;tendu;en paix;tendu;en paix
+0,103,5,10:59,nathalie,55,6,joyeux;joyeux;tendu;en paix;tendu;en paix
+0,103,5,10:59,timo,23,6,joyeux;joyeux;tendu;en paix;tendu;en paix
+0,103,5,10:59,didier,89,6,joyeux;joyeux;tendu;en paix;tendu;en paix
+0,103,5,10:59,solene,22,6,joyeux;joyeux;tendu;en paix;tendu;en paix
+0,103,5,10:59,nathan,98,6,joyeux;joyeux;tendu;en paix;tendu;en paix
+0,103,5,10:59,didier,6,6,joyeux;joyeux;tendu;en paix;tendu;en paix
+5,93,86,21:36,solene,10,3,content;tendu;joyeux
+5,93,86,21:36,kamily,25,3,content;tendu;joyeux
+4,146,199,12:36,laurine,65,3,en paix;en paix;en paix
+4,146,199,12:36,nathalie,22,3,en paix;en paix;en paix
+4,146,199,12:36,didier,28,3,en paix;en paix;en paix
+4,146,199,12:36,nathan,19,3,en paix;en paix;en paix
+4,146,199,12:36,fabrice,55,3,en paix;en paix;en paix
+4,146,199,12:36,nathalie,43,3,en paix;en paix;en paix
+4,146,199,12:36,amanda,56,3,en paix;en paix;en paix
+4,146,199,12:36,amanda,79,3,en paix;en paix;en paix
+9,1,141,22:34,kamily,59,6,en paix;déprimé;stressé;content;apaisé;déprimé
+9,1,141,22:34,kamily,15,6,en paix;déprimé;stressé;content;apaisé;déprimé
+9,1,141,22:34,didier,69,6,en paix;déprimé;stressé;content;apaisé;déprimé
+9,1,141,22:34,moussa,22,6,en paix;déprimé;stressé;content;apaisé;déprimé
+9,1,141,22:34,moussa,41,6,en paix;déprimé;stressé;content;apaisé;déprimé
+9,1,141,22:34,solene,13,6,en paix;déprimé;stressé;content;apaisé;déprimé
+9,1,141,22:34,solene,4,6,en paix;déprimé;stressé;content;apaisé;déprimé
+9,1,141,22:34,francky,3,6,en paix;déprimé;stressé;content;apaisé;déprimé
+3,62,47,14:29,kamily,3,5,en paix;stressé;malade;déprimé;heureux
+3,62,47,14:29,kamily,83,5,en paix;stressé;malade;déprimé;heureux
+3,62,47,14:29,fabrice,62,5,en paix;stressé;malade;déprimé;heureux
+3,62,47,14:29,timo,29,5,en paix;stressé;malade;déprimé;heureux
+3,62,47,14:29,moussa,17,5,en paix;stressé;malade;déprimé;heureux
+3,62,47,14:29,amanda,37,5,en paix;stressé;malade;déprimé;heureux
+3,62,47,14:29,francky,76,5,en paix;stressé;malade;déprimé;heureux
+3,141,80,9:11,nathalie,93,5,joyeux;en paix;joyeux;stressé;content
+3,141,80,9:11,kamily,10,5,joyeux;en paix;joyeux;stressé;content
+3,141,80,9:11,nathan,19,5,joyeux;en paix;joyeux;stressé;content
+3,141,80,9:11,amanda,86,5,joyeux;en paix;joyeux;stressé;content
+3,141,80,9:11,moussa,33,5,joyeux;en paix;joyeux;stressé;content
+3,141,80,9:11,nathan,55,5,joyeux;en paix;joyeux;stressé;content
+3,141,80,9:11,ashley,29,5,joyeux;en paix;joyeux;stressé;content
+3,141,80,9:11,ashley,42,5,joyeux;en paix;joyeux;stressé;content
+0,73,49,22:11,didier,56,2,stressé;tendu
+0,73,49,22:11,ashley,99,2,stressé;tendu
+0,73,49,22:11,nathaniel,35,2,stressé;tendu
+0,73,49,22:11,didier,91,2,stressé;tendu
+0,73,49,22:11,fabrice,57,2,stressé;tendu
+0,73,49,22:11,laurine,74,2,stressé;tendu
+0,73,49,22:11,nathaniel,5,2,stressé;tendu
+0,73,49,22:11,fabrice,10,2,stressé;tendu
+0,73,49,22:11,francky,90,2,stressé;tendu
+0,73,49,22:11,nathaniel,44,2,stressé;tendu
+1,20,153,3:37,nathalie,82,1,tendu
+1,20,153,3:37,amanda,99,1,tendu
+1,20,153,3:37,ashley,89,1,tendu
+1,20,153,3:37,moussa,35,1,tendu
+1,20,153,3:37,fabrice,44,1,tendu
+6,182,125,13:1,amanda,46,1,apaisé
+6,182,125,13:1,moussa,33,1,apaisé
+6,182,125,13:1,nathalie,39,1,apaisé
+6,182,125,13:1,laurine,79,1,apaisé
+6,182,125,13:1,solene,3,1,apaisé
+0,30,110,6:4,fabrice,24,2,malade;agité
+0,30,110,6:4,nathalie,27,2,malade;agité
+0,30,110,6:4,fabrice,32,2,malade;agité
+0,30,110,6:4,nathaniel,5,2,malade;agité
+0,30,110,6:4,nathaniel,84,2,malade;agité
+0,30,110,6:4,didier,80,2,malade;agité
+3,199,55,0:13,nathalie,70,5,content;heureux;en paix;malade;heureux
+3,199,55,0:13,laurine,34,5,content;heureux;en paix;malade;heureux
+3,199,55,0:13,amanda,14,5,content;heureux;en paix;malade;heureux
+3,199,55,0:13,timo,37,5,content;heureux;en paix;malade;heureux
+3,199,55,0:13,nathan,32,5,content;heureux;en paix;malade;heureux
+3,199,55,0:13,amanda,78,5,content;heureux;en paix;malade;heureux
+3,199,55,0:13,francky,51,5,content;heureux;en paix;malade;heureux
+1,135,189,3:25,nathalie,46,7,joyeux;en paix;apaisé;en paix;malade;stressé;heureux
+1,135,189,3:25,francky,39,7,joyeux;en paix;apaisé;en paix;malade;stressé;heureux
+1,135,189,3:25,ashley,39,7,joyeux;en paix;apaisé;en paix;malade;stressé;heureux
+1,135,189,3:25,moussa,29,7,joyeux;en paix;apaisé;en paix;malade;stressé;heureux
+1,135,189,3:25,solene,36,7,joyeux;en paix;apaisé;en paix;malade;stressé;heureux
+1,135,189,3:25,fabrice,38,7,joyeux;en paix;apaisé;en paix;malade;stressé;heureux
+1,135,189,3:25,solene,21,7,joyeux;en paix;apaisé;en paix;malade;stressé;heureux
+3,136,159,11:13,amanda,46,4,stressé;stressé;content;malade
+3,136,159,11:13,amanda,70,4,stressé;stressé;content;malade
+3,136,159,11:13,laurine,98,4,stressé;stressé;content;malade
+3,136,159,11:13,timo,37,4,stressé;stressé;content;malade
+3,136,159,11:13,moussa,11,4,stressé;stressé;content;malade
+3,136,159,11:13,amanda,95,4,stressé;stressé;content;malade
+3,136,159,11:13,kamily,6,4,stressé;stressé;content;malade
+3,136,159,11:13,didier,3,4,stressé;stressé;content;malade
+3,136,159,11:13,nathan,19,4,stressé;stressé;content;malade
+3,136,159,11:13,timo,38,4,stressé;stressé;content;malade
+9,27,26,5:58,laurine,47,1,en paix
+9,27,26,5:58,fabrice,42,1,en paix
+9,27,26,5:58,laurine,20,1,en paix
+9,27,26,5:58,amanda,73,1,en paix
+9,27,26,5:58,nathan,44,1,en paix
+9,27,26,5:58,moussa,10,1,en paix
+9,27,26,5:58,moussa,12,1,en paix
+9,27,26,5:58,francky,86,1,en paix
+8,139,39,15:55,nathalie,89,1,heureux
+8,139,39,15:55,moussa,2,1,heureux
+8,139,39,15:55,laurine,52,1,heureux
+8,139,39,15:55,ashley,13,1,heureux
+7,44,147,23:48,didier,26,9,déprimé;stressé;agité;agité;tendu;déprimé;agité;apaisé;stressé
+7,44,147,23:48,timo,15,9,déprimé;stressé;agité;agité;tendu;déprimé;agité;apaisé;stressé
+7,44,147,23:48,solene,34,9,déprimé;stressé;agité;agité;tendu;déprimé;agité;apaisé;stressé
+7,44,147,23:48,moussa,17,9,déprimé;stressé;agité;agité;tendu;déprimé;agité;apaisé;stressé
+7,44,147,23:48,nathaniel,8,9,déprimé;stressé;agité;agité;tendu;déprimé;agité;apaisé;stressé
+4,142,15,18:9,timo,37,2,déprimé;apaisé
+4,142,15,18:9,nathan,45,2,déprimé;apaisé
+4,142,15,18:9,amanda,3,2,déprimé;apaisé
+4,142,15,18:9,fabrice,77,2,déprimé;apaisé
+4,142,15,18:9,didier,97,2,déprimé;apaisé
+4,142,15,18:9,fabrice,28,2,déprimé;apaisé
+4,142,15,18:9,moussa,40,2,déprimé;apaisé
+4,142,15,18:9,moussa,11,2,déprimé;apaisé
+4,142,15,18:9,kamily,34,2,déprimé;apaisé
+4,142,15,18:9,kamily,85,2,déprimé;apaisé
+4,142,15,18:9,francky,64,2,déprimé;apaisé
+1,163,81,1:34,kamily,32,2,heureux;déprimé
+1,163,81,1:34,laurine,69,2,heureux;déprimé
+1,163,81,1:34,nathan,49,2,heureux;déprimé
+1,163,81,1:34,amanda,7,2,heureux;déprimé
+1,163,81,1:34,solene,19,2,heureux;déprimé
+0,53,82,22:44,kamily,28,9,apaisé;content;tendu;stressé;apaisé;joyeux;tendu;stressé;stressé
+0,53,82,22:44,timo,41,9,apaisé;content;tendu;stressé;apaisé;joyeux;tendu;stressé;stressé
+4,132,96,2:47,nathalie,25,1,malade
+4,132,96,2:47,kamily,37,1,malade
+4,132,96,2:47,fabrice,11,1,malade
+4,132,96,2:47,amanda,24,1,malade
+6,49,172,5:41,solene,36,2,content;content
+6,49,172,5:41,ashley,31,2,content;content
+6,49,172,5:41,amanda,37,2,content;content
+6,49,172,5:41,nathan,64,2,content;content
+8,70,4,6:36,ashley,7,2,apaisé;agité
+8,70,4,6:36,amanda,90,2,apaisé;agité
+8,70,4,6:36,moussa,9,2,apaisé;agité
+8,70,4,6:36,laurine,22,2,apaisé;agité
+8,70,4,6:36,francky,52,2,apaisé;agité
+8,70,4,6:36,moussa,15,2,apaisé;agité
+8,70,4,6:36,francky,47,2,apaisé;agité
+8,70,4,6:36,timo,22,2,apaisé;agité
+8,70,4,6:36,fabrice,84,2,apaisé;agité
+8,70,4,6:36,solene,30,2,apaisé;agité
+5,156,50,1:39,nathalie,2,2,en paix;en paix
+5,156,50,1:39,fabrice,76,2,en paix;en paix
+5,156,50,1:39,kamily,96,2,en paix;en paix
+5,156,50,1:39,nathalie,95,2,en paix;en paix
+5,156,50,1:39,nathaniel,100,2,en paix;en paix
+5,156,50,1:39,nathaniel,99,2,en paix;en paix
+6,29,11,16:47,nathalie,60,4,joyeux;tendu;apaisé;malade
+6,29,11,16:47,nathalie,11,4,joyeux;tendu;apaisé;malade
+6,29,11,16:47,francky,17,4,joyeux;tendu;apaisé;malade
+6,29,11,16:47,solene,11,4,joyeux;tendu;apaisé;malade
+6,29,11,16:47,nathaniel,87,4,joyeux;tendu;apaisé;malade
+6,29,11,16:47,kamily,100,4,joyeux;tendu;apaisé;malade
+6,29,11,16:47,amanda,12,4,joyeux;tendu;apaisé;malade
+6,29,11,16:47,solene,18,4,joyeux;tendu;apaisé;malade
+0,177,151,17:34,moussa,18,4,malade;apaisé;en paix;agité
+0,177,151,17:34,francky,2,4,malade;apaisé;en paix;agité
+0,177,151,17:34,nathaniel,82,4,malade;apaisé;en paix;agité
+0,177,151,17:34,nathan,64,4,malade;apaisé;en paix;agité
+0,177,151,17:34,fabrice,87,4,malade;apaisé;en paix;agité
+0,177,151,17:34,francky,23,4,malade;apaisé;en paix;agité
+0,177,151,17:34,laurine,36,4,malade;apaisé;en paix;agité
+2,198,154,1:21,timo,29,7,heureux;apaisé;apaisé;heureux;en paix;heureux;joyeux
+2,198,154,1:21,fabrice,47,7,heureux;apaisé;apaisé;heureux;en paix;heureux;joyeux
+2,198,154,1:21,timo,32,7,heureux;apaisé;apaisé;heureux;en paix;heureux;joyeux
+2,198,154,1:21,nathaniel,23,7,heureux;apaisé;apaisé;heureux;en paix;heureux;joyeux
+2,198,154,1:21,francky,19,7,heureux;apaisé;apaisé;heureux;en paix;heureux;joyeux
+2,198,154,1:21,timo,36,7,heureux;apaisé;apaisé;heureux;en paix;heureux;joyeux
+2,198,154,1:21,ashley,49,7,heureux;apaisé;apaisé;heureux;en paix;heureux;joyeux
+2,198,154,1:21,timo,39,7,heureux;apaisé;apaisé;heureux;en paix;heureux;joyeux
+2,198,154,1:21,nathan,10,7,heureux;apaisé;apaisé;heureux;en paix;heureux;joyeux

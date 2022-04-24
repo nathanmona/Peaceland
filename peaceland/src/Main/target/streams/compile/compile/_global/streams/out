@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/nathanjobs/Documents/scala/peaceland_mbuma_top-1/peaceland_mbuma_top/src/Peaceland/Peacewatcher.scala:4:56: not found: type Message[0m[0J
+[0m[[0m[31merror[0m] [0m[0mclass Peacewatcher(idPeaceWatcher: Int, messages: List[Message]) {[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                                                       ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0m/Users/nathanjobs/Documents/scala/peaceland_mbuma_top-1/peaceland_mbuma_top/src/Peaceland/Main.scala:28:28: value messages is not a member of peaceland.Peacewatcher[0m[0J
+[0m[[0m[31merror[0m] [0m[0m    WriteMessagesInFile(pw.messages)[0m[0J
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m[0J
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m[0J
