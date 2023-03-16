@@ -1,4 +1,4 @@
-name := "peaceland_mbuma_top"
+name := "peaceland_mbuma"
 
 
 

@@ -15,7 +15,9 @@ object MessageHandler{
 
           
         writeMessagesInFile(pw, generateMessageBis(lstWord(0), lstWord(1), lstWord(2), lstWord(3), lstWord(6), lstWord(7)))
+      
         writeManyMessagesAux(i-1, lstWord, pw)
+
       }
     }
 
@@ -24,7 +26,7 @@ object MessageHandler{
         val words = generateMessage()
         writeMessagesInFile(pw, words)
         val lstWord = words.split(",").map(_.trim).toList
-        writeManyMessagesAux(getRandomInt(10) + 1, lstWord, pw)
+        //writeManyMessagesAux(getRandomInt(10) + 1, lstWord, pw)
         writeManyMessages(i-1, pw)
       }
     }
@@ -92,7 +94,7 @@ object MessageHandler{
             + "," +
             chooseACitizen(getRandomInt(13))
             + "," + 
-            peacescore.toString()
+            peacescore.toString
             + "," + 
             numberOfWords.toString
             + "," +

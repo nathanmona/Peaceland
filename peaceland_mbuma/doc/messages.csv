@@ -21,23 +21,23 @@ Id,Latitude,Longitude,Time,Citizen,Peacescore,Number of words,Words heard
 0,110,159,1:20,laurine,70,5,malade;déprimé;déprimé;apaisé;stressé
 0,110,159,1:20,nathalie,6,5,malade;déprimé;déprimé;apaisé;stressé
 0,110,159,1:20,nathalie,65,5,malade;déprimé;déprimé;apaisé;stressé
-9,108,79,10:9,nathaniel,76,1,malade
+9,108,79,10:9,nathaniel,86,1,malade
 9,108,79,10:9,francky,100,1,malade
-5,78,55,12:17,amanda,68,6,agité;tendu;stressé;déprimé;malade;en paix
+5,78,55,12:17,amanda,88,6,agité;tendu;stressé;déprimé;malade;en paix
 5,78,55,12:17,solene,33,6,agité;tendu;stressé;déprimé;malade;en paix
 5,78,55,12:17,didier,6,6,agité;tendu;stressé;déprimé;malade;en paix
-5,78,55,12:17,ashley,64,6,agité;tendu;stressé;déprimé;malade;en paix
+5,78,55,12:17,ashley,94,6,agité;tendu;stressé;déprimé;malade;en paix
 5,78,55,12:17,amanda,29,6,agité;tendu;stressé;déprimé;malade;en paix
 3,183,159,23:31,francky,85,7,joyeux;stressé;apaisé;stressé;agité;joyeux;content
 3,183,159,23:31,timo,19,7,joyeux;stressé;apaisé;stressé;agité;joyeux;content
 3,183,159,23:31,nathan,35,7,joyeux;stressé;apaisé;stressé;agité;joyeux;content
-3,183,159,23:31,laurine,64,7,joyeux;stressé;apaisé;stressé;agité;joyeux;content
+3,183,159,23:31,laurine,94,7,joyeux;stressé;apaisé;stressé;agité;joyeux;content
 3,183,159,23:31,moussa,34,7,joyeux;stressé;apaisé;stressé;agité;joyeux;content
 3,183,159,23:31,nathalie,30,7,joyeux;stressé;apaisé;stressé;agité;joyeux;content
 3,183,159,23:31,amanda,77,7,joyeux;stressé;apaisé;stressé;agité;joyeux;content
 3,183,159,23:31,kamily,15,7,joyeux;stressé;apaisé;stressé;agité;joyeux;content
 3,183,159,23:31,solene,17,7,joyeux;stressé;apaisé;stressé;agité;joyeux;content
-3,183,159,23:31,nathaniel,76,7,joyeux;stressé;apaisé;stressé;agité;joyeux;content
+3,183,159,23:31,nathaniel,84,7,joyeux;stressé;apaisé;stressé;agité;joyeux;content
 1,30,135,16:33,ashley,55,2,apaisé;stressé
 1,30,135,16:33,laurine,32,2,apaisé;stressé
 1,30,135,16:33,timo,29,2,apaisé;stressé
@@ -45,7 +45,7 @@ Id,Latitude,Longitude,Time,Citizen,Peacescore,Number of words,Words heard
 6,87,76,5:48,nathalie,84,5,heureux;heureux;tendu;déprimé;joyeux
 6,87,76,5:48,ashley,43,5,heureux;heureux;tendu;déprimé;joyeux
 6,87,76,5:48,nathaniel,63,5,heureux;heureux;tendu;déprimé;joyeux
-6,87,76,5:48,amanda,71,5,heureux;heureux;tendu;déprimé;joyeux
+6,87,76,5:48,amanda,91,5,heureux;heureux;tendu;déprimé;joyeux
 6,87,76,5:48,moussa,45,5,heureux;heureux;tendu;déprimé;joyeux
 6,87,76,5:48,nathaniel,10,5,heureux;heureux;tendu;déprimé;joyeux
 6,87,76,5:48,solene,8,5,heureux;heureux;tendu;déprimé;joyeux
@@ -83,7 +83,7 @@ Id,Latitude,Longitude,Time,Citizen,Peacescore,Number of words,Words heard
 1,120,138,19:27,nathalie,40,7,malade;stressé;malade;en paix;heureux;content;malade
 1,120,138,19:27,francky,57,7,malade;stressé;malade;en paix;heureux;content;malade
 1,120,138,19:27,francky,13,7,malade;stressé;malade;en paix;heureux;content;malade
-0,103,5,10:59,ashley,76,6,joyeux;joyeux;tendu;en paix;tendu;en paix
+0,103,5,10:59,ashley,86,6,joyeux;joyeux;tendu;en paix;tendu;en paix
 0,103,5,10:59,francky,57,6,joyeux;joyeux;tendu;en paix;tendu;en paix
 0,103,5,10:59,francky,76,6,joyeux;joyeux;tendu;en paix;tendu;en paix
 0,103,5,10:59,nathalie,55,6,joyeux;joyeux;tendu;en paix;tendu;en paix
@@ -120,13 +120,13 @@ Id,Latitude,Longitude,Time,Citizen,Peacescore,Number of words,Words heard
 3,141,80,9:11,nathalie,93,5,joyeux;en paix;joyeux;stressé;content
 3,141,80,9:11,kamily,10,5,joyeux;en paix;joyeux;stressé;content
 3,141,80,9:11,nathan,19,5,joyeux;en paix;joyeux;stressé;content
-3,141,80,9:11,amanda,16,5,joyeux;en paix;joyeux;stressé;content
+3,141,80,9:11,amanda,86,5,joyeux;en paix;joyeux;stressé;content
 3,141,80,9:11,moussa,33,5,joyeux;en paix;joyeux;stressé;content
 3,141,80,9:11,nathan,55,5,joyeux;en paix;joyeux;stressé;content
 3,141,80,9:11,ashley,29,5,joyeux;en paix;joyeux;stressé;content
 3,141,80,9:11,ashley,42,5,joyeux;en paix;joyeux;stressé;content
 0,73,49,22:11,didier,56,2,stressé;tendu
-0,73,49,22:11,ashley,79,2,stressé;tendu
+0,73,49,22:11,ashley,99,2,stressé;tendu
 0,73,49,22:11,nathaniel,35,2,stressé;tendu
 0,73,49,22:11,didier,91,2,stressé;tendu
 0,73,49,22:11,fabrice,57,2,stressé;tendu
@@ -136,8 +136,8 @@ Id,Latitude,Longitude,Time,Citizen,Peacescore,Number of words,Words heard
 0,73,49,22:11,francky,90,2,stressé;tendu
 0,73,49,22:11,nathaniel,44,2,stressé;tendu
 1,20,153,3:37,nathalie,82,1,tendu
-1,20,153,3:37,amanda,79,1,tendu
-1,20,153,3:37,ashley,79,1,tendu
+1,20,153,3:37,amanda,99,1,tendu
+1,20,153,3:37,ashley,89,1,tendu
 1,20,153,3:37,moussa,35,1,tendu
 1,20,153,3:37,fabrice,44,1,tendu
 6,182,125,13:1,amanda,46,1,apaisé
@@ -149,7 +149,7 @@ Id,Latitude,Longitude,Time,Citizen,Peacescore,Number of words,Words heard
 0,30,110,6:4,nathalie,27,2,malade;agité
 0,30,110,6:4,fabrice,32,2,malade;agité
 0,30,110,6:4,nathaniel,5,2,malade;agité
-0,30,110,6:4,nathaniel,64,2,malade;agité
+0,30,110,6:4,nathaniel,84,2,malade;agité
 0,30,110,6:4,didier,80,2,malade;agité
 3,199,55,0:13,nathalie,70,5,content;heureux;en paix;malade;heureux
 3,199,55,0:13,laurine,34,5,content;heureux;en paix;malade;heureux
@@ -167,10 +167,10 @@ Id,Latitude,Longitude,Time,Citizen,Peacescore,Number of words,Words heard
 1,135,189,3:25,solene,21,7,joyeux;en paix;apaisé;en paix;malade;stressé;heureux
 3,136,159,11:13,amanda,46,4,stressé;stressé;content;malade
 3,136,159,11:13,amanda,70,4,stressé;stressé;content;malade
-3,136,159,11:13,laurine,68,4,stressé;stressé;content;malade
+3,136,159,11:13,laurine,98,4,stressé;stressé;content;malade
 3,136,159,11:13,timo,37,4,stressé;stressé;content;malade
 3,136,159,11:13,moussa,11,4,stressé;stressé;content;malade
-3,136,159,11:13,amanda,55,4,stressé;stressé;content;malade
+3,136,159,11:13,amanda,95,4,stressé;stressé;content;malade
 3,136,159,11:13,kamily,6,4,stressé;stressé;content;malade
 3,136,159,11:13,didier,3,4,stressé;stressé;content;malade
 3,136,159,11:13,nathan,19,4,stressé;stressé;content;malade
@@ -219,7 +219,7 @@ Id,Latitude,Longitude,Time,Citizen,Peacescore,Number of words,Words heard
 6,49,172,5:41,amanda,37,2,content;content
 6,49,172,5:41,nathan,64,2,content;content
 8,70,4,6:36,ashley,7,2,apaisé;agité
-8,70,4,6:36,amanda,80,2,apaisé;agité
+8,70,4,6:36,amanda,90,2,apaisé;agité
 8,70,4,6:36,moussa,9,2,apaisé;agité
 8,70,4,6:36,laurine,22,2,apaisé;agité
 8,70,4,6:36,francky,52,2,apaisé;agité
@@ -232,19 +232,19 @@ Id,Latitude,Longitude,Time,Citizen,Peacescore,Number of words,Words heard
 5,156,50,1:39,fabrice,76,2,en paix;en paix
 5,156,50,1:39,kamily,96,2,en paix;en paix
 5,156,50,1:39,nathalie,95,2,en paix;en paix
-5,156,50,1:39,nathaniel,10,2,en paix;en paix
-5,156,50,1:39,nathaniel,59,2,en paix;en paix
+5,156,50,1:39,nathaniel,100,2,en paix;en paix
+5,156,50,1:39,nathaniel,99,2,en paix;en paix
 6,29,11,16:47,nathalie,60,4,joyeux;tendu;apaisé;malade
 6,29,11,16:47,nathalie,11,4,joyeux;tendu;apaisé;malade
 6,29,11,16:47,francky,17,4,joyeux;tendu;apaisé;malade
 6,29,11,16:47,solene,11,4,joyeux;tendu;apaisé;malade
-6,29,11,16:47,nathaniel,77,4,joyeux;tendu;apaisé;malade
+6,29,11,16:47,nathaniel,87,4,joyeux;tendu;apaisé;malade
 6,29,11,16:47,kamily,100,4,joyeux;tendu;apaisé;malade
 6,29,11,16:47,amanda,12,4,joyeux;tendu;apaisé;malade
 6,29,11,16:47,solene,18,4,joyeux;tendu;apaisé;malade
 0,177,151,17:34,moussa,18,4,malade;apaisé;en paix;agité
 0,177,151,17:34,francky,2,4,malade;apaisé;en paix;agité
-0,177,151,17:34,nathaniel,62,4,malade;apaisé;en paix;agité
+0,177,151,17:34,nathaniel,82,4,malade;apaisé;en paix;agité
 0,177,151,17:34,nathan,64,4,malade;apaisé;en paix;agité
 0,177,151,17:34,fabrice,87,4,malade;apaisé;en paix;agité
 0,177,151,17:34,francky,23,4,malade;apaisé;en paix;agité

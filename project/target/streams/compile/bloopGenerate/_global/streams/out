@@ -1,4 +1,4 @@
-[debug] [peaceland_mbuma_top-build] Classpath dependencies List()
-[debug] [peaceland_mbuma_top-build] Dependencies from configurations List()
-[debug] Bloop wrote the configuration of project 'peaceland_mbuma_top-build' to '/Users/nathan_jobs/Documents/scala/peaceland_mbuma_top/project/.bloop/peaceland_mbuma_top-build.json'
-[success] Generated .bloop/peaceland_mbuma_top-build.json
+[0m[[0m[0mdebug[0m] [0m[0m[peaceland-build] Classpath dependencies List()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[peaceland-build] Dependencies from configurations List()[0m
+[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'peaceland-build' to '/Users/nathan_jobs/Documents/scala/Peaceland/project/.bloop/peaceland-build.json'[0m
+[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/peaceland-build.json[0m

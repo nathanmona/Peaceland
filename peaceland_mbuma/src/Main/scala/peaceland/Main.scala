@@ -11,7 +11,7 @@ object Main{
     if (file.length() == 0){
 
       pw.write("Id,Latitude,Longitude,Time,Citizen,Peacescore,Number of words,Words heard\n")
-      MessageHandler.writeManyMessages(10, pw)
+      MessageHandler.writeManyMessages(10000, pw)
     }
 
     pw.close
@@ -23,6 +23,7 @@ object Main{
     QueryHandler.findMostHeardWord(df).show(200, false) 
     QueryHandler.allCitizenWhoseNearbyAreNervous(df).show(200, false)
     QueryHandler.getUnsafePlace(df).show(200, false) 
+    
 
  }
 }

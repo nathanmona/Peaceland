@@ -1,0 +1,114 @@
+2023.03.16 18:13:07 INFO  Started: Metals version 0.11.11 in workspace '/Users/nathan_jobs/Documents/scala/Peaceland' for client Visual Studio Code 1.76.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/Users/nathan_jobs/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.16 18:13:11 INFO  time: initialize in 3.67s
+2023.03.16 18:13:26 WARN  Build server is not auto-connectable.
+2023.03.16 18:13:26 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/AlertHandler.scala
+2023.03.16 18:13:48 INFO  no build target found for /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/AlertHandler.scala. Using presentation compiler with project's scala-library version: 3.2.2
+mars 16, 2023 6:13:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+mars 16, 2023 6:13:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+mars 16, 2023 6:13:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2023.03.16 18:13:49 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/build.sbt
+2023.03.16 18:13:59 INFO  time: code lens generation in 9.51s
+2023.03.16 18:13:59 INFO  time: code lens generation in 9.52s
+2023.03.16 18:13:59 INFO  time: code lens generation in 30s
+2023.03.16 18:18:06 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/InitDataFrame.scala
+2023.03.16 18:18:29 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/build.sbt
+2023.03.16 18:18:29 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/build.sbt
+2023.03.16 18:18:52 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 18:30:10 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 18:37:44 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/build.sbt
+2023.03.16 18:37:44 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/build.sbt
+mars 16, 2023 7:37:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 189
+mars 16, 2023 8:12:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 273
+mars 16, 2023 8:17:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 312
+2023.03.16 20:23:15 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 20:23:18 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 20:23:20 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 20:23:21 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 20:23:28 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 20:24:04 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 20:24:08 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 20:24:13 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 20:24:15 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 20:24:19 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 20:25:02 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 20:25:10 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 20:25:13 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 20:25:15 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 20:25:18 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 20:25:19 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 20:25:25 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 20:25:33 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 20:25:35 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 20:25:37 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 20:25:40 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 20:25:42 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+mars 16, 2023 8:25:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 755
+2023.03.16 20:25:49 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 20:25:52 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 20:25:52 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 20:27:17 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+mars 16, 2023 8:34:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 868
+mars 16, 2023 8:56:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1178
+2023.03.16 20:58:30 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 20:59:54 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 20:59:55 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 21:04:08 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 21:05:42 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 21:05:42 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 21:05:42 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 21:05:43 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 21:05:42 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 21:05:43 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 21:05:43 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 21:05:43 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 21:07:39 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/QueryHandler.scala
+2023.03.16 21:09:10 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 21:09:11 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 21:09:15 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 21:09:17 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 21:09:19 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 21:11:18 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/InitDataFrame.scala
+2023.03.16 21:12:49 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 21:12:49 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 21:12:59 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 21:13:00 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 21:13:06 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 21:14:57 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 21:15:07 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 21:15:07 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 21:17:09 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 21:17:16 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+mars 16, 2023 9:19:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1773
+2023.03.16 21:19:16 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/MessageHandler.scala
+2023.03.16 21:20:11 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 23:03:29 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 23:03:32 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 23:03:33 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 23:03:34 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 23:03:35 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 23:10:14 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 23:10:17 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 23:10:19 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.16 23:43:05 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/src/Main/scala/peaceland/Main.scala
+2023.03.17 00:19:47 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/build.sbt
+2023.03.17 00:19:48 WARN  no build target for: /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/build.sbt
+mars 17, 2023 12:25:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2257
+mars 17, 2023 12:30:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
