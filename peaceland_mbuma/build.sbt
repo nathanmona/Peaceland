@@ -8,6 +8,7 @@ showSuccess := false
 onLoadMessage := ""
 logLevel in run := Level.Warn
 
+
 libraryDependencies += "org.apache.spark" %% "spark-core" % "3.3.2"
 libraryDependencies += "org.apache.spark" %% "spark-sql" % "3.3.2"
 libraryDependencies += "com.fasterxml.jackson.core" % "jackson-databind" % "2.6.5"

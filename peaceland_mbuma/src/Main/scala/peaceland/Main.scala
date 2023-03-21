@@ -5,6 +5,7 @@ import collection.JavaConverters._
 object Main{
 
   def main(args: Array[String]): Unit = {
+    val t1 = System.nanoTime
     val file = new File("./doc/messages.csv")
     val pw = new PrintWriter(new FileOutputStream(file, true))
     
@@ -23,6 +24,9 @@ object Main{
     QueryHandler.findMostHeardWord(df).show(200, false) 
     QueryHandler.allCitizenWhoseNearbyAreNervous(df).show(200, false)
     QueryHandler.getUnsafePlace(df).show(200, false) 
+    val duration = (System.nanoTime - t1) / 1e9d
+
+    println(duration)
     
 
  }

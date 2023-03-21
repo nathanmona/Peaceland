@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(collectAnalyses, None, Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched Processing event for requestId None: None[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / collectAnalyses[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mUnhandled notification received: initialized: JsonRpcNotificationMessage(2.0, initialized, {})[0m
+[0m[[0m[0mdebug[0m] [0m[0mUnhandled notification received: textDocument/didOpen: JsonRpcNotificationMessage(2.0, textDocument/didOpen, {"textDocument":{"uri":"file:///Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/build.sbt","languageId":"scala","version":1,"text":"name := \"peaceland_mbuma\"\n\n\n\nscalaVersion := \"2.13.8\"\n\nshowSuccess := false\nonLoadMessage := \"\"\nlogLevel in run := Level.Warn\nenablePlugins(DockerComposePlugin)\n\nlibraryDependencies += \"org.apache.spark\" %% \"spark-core\" % \"3.3.2\"\nlibraryDependencies += \"org.apache.spark\" %% \"spark-sql\" % \"3.3.2\"\nlibraryDependencies += \"com.fasterxml.jackson.core\" % \"jackson-databind\" % \"2.6.5\"\nlibraryDependencies += \"org.twitter4j\" % \"twitter4j-core\" % \"4.0.5\"\nlibraryDependencies += \"com.google.code.gson\" % \"gson\" % \"2.7\"\nlibraryDependencies += \"org.scala-lang.modules\" %% \"scala-parser-combinators\" % \"1.1.2\""}})[0m
+[0m[[0m[33mwarn[0m] [0m[0msbt-docker-compose-1.0.35.jar no longer exists at /Users/nathan_jobs/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/tapad/sbt-docker-compose_2.12_1.0/1.0.35/sbt-docker-compose-1.0.35.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":2,"message":"sbt-docker-compose-1.0.35.jar no longer exists at /Users/nathan_jobs/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/tapad/sbt-docker-compose_2.12_1.0/1.0.35/sbt-docker-compose-1.0.35.jar"})[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating [0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":3,"message":"Updating "})[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved  dependencies[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":3,"message":"Resolved  dependencies"})[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of [0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":3,"message":"Fetching artifacts of "})[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of [0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":3,"message":"Fetched artifacts of "})[0m
+[0m[[0m[0mdebug[0m] [0m[0manalysis location (/Users/nathan_jobs/Documents/scala/Peaceland/target/scala-2.12/zinc/inc_compile_2.12.zip,true)[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 1 s, completed 19 mars 2023 à 18:55:00[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched Done event for requestId None: None[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m

@@ -1,4 +1,4 @@
-[debug] [peaceland_mbuma_top] Classpath dependencies List()
-[debug] [peaceland_mbuma_top] Dependencies from configurations List()
-[debug] Bloop wrote the configuration of project 'peaceland_mbuma_top' to '/Users/nathan_jobs/Documents/scala/peaceland_mbuma_top/.bloop/peaceland_mbuma_top.json'
-[success] Generated .bloop/peaceland_mbuma_top.json
+[debug] [peaceland] Classpath dependencies List()
+[debug] [peaceland] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'peaceland' to '/Users/nathan_jobs/Documents/scala/Peaceland/.bloop/peaceland.json'
+[success] Generated .bloop/peaceland.json
