@@ -28,7 +28,7 @@ Ce fichier gère les différentes requêtes développées pour ce projet :
 
 Pour ce projet, j'utilise la version 11 de Java, Scala 2.13.8, sbt 1.8.3 et Spark 3 afin de bénéficier de Catalyst. Si vous êtes sur Mac, vous pouvez effectuer la commande suivante :
 
-# **export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-11.0.10.jdk**
+**export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-11.0.10.jdk**
 Après avoir installé les différentes versions, exécutez la commande suivante :
 
-# **sbt run**
+**sbt run**
