@@ -1,0 +1,51 @@
+2023.05.24 12:27:04 INFO  Started: Metals version 0.11.12 in workspace '/Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma' for client Visual Studio Code 1.78.2.
+mai 24, 2023 12:27:04 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+mai 24, 2023 12:27:04 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+mai 24, 2023 12:27:04 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+mai 24, 2023 12:27:06 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:/Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/.metals/metals (H2 2.1)
+mai 24, 2023 12:27:07 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory allAppliedMigrations
+INFO: Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+mai 24, 2023 12:27:07 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.187s)
+mai 24, 2023 12:27:07 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+INFO: Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+mai 24, 2023 12:27:07 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": << Empty Schema >>
+mai 24, 2023 12:27:07 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "1 - Create tables"
+mai 24, 2023 12:27:07 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "2 - Server discovery"
+mai 24, 2023 12:27:07 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "3 - Jar symbols"
+mai 24, 2023 12:27:07 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "4 - Fingerprints"
+mai 24, 2023 12:27:07 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.321s)
+2023.05.24 12:27:07 INFO  time: initialize in 3.72s
+2023.05.24 12:27:31 INFO  Attempting to connect to the build server...
+mai 24, 2023 12:27:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+mai 24, 2023 12:27:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+mai 24, 2023 12:27:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+mai 24, 2023 12:27:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.05.24 12:27:31 INFO  Bloop uses /Library/Java/JavaVirtualMachines/jdk-11.0.10.jdk/Contents/Home defined at /Users/nathan_jobs/.bloop/bloop.json
+mai 24, 2023 12:27:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.05.24 12:27:33 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/.metals/bsp.trace.json or /Users/nathan_jobs/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.05.24 12:27:33 INFO  Attempting to connect to the build server...
+2023.05.24 12:27:33 INFO  Bloop uses /Library/Java/JavaVirtualMachines/jdk-11.0.10.jdk/Contents/Home defined at /Users/nathan_jobs/.bloop/bloop.json
+2023.05.24 12:27:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/nathan_jobs/Documents/scala/Peaceland/peaceland_mbuma/project/.metals/bsp.trace.json or /Users/nathan_jobs/Library/Caches/org.scalameta.metals/bsp.trace.json
+2023.05.24 12:27:36 INFO  time: Connected to build server in 4.8s
+2023.05.24 12:27:36 INFO  Connected to Build server: Bloop v1.5.6
+2023.05.24 12:27:36 INFO  time: Imported build in 0.39s
+2023.05.24 12:27:40 INFO  running '/Library/Java/JavaVirtualMachines/jdk-11.0.10.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/gc/q0w5njzs6c31x9y1jw0x1j940000gn/T/metals9556281811763109416/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+mai 24, 2023 12:27:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.05.24 12:28:02 INFO  [info] welcome to sbt 1.8.3 (Oracle Corporation Java 11.0.10)
