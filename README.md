@@ -1,34 +1,36 @@
-
 # Peaceland
 
-# Ce projet répond au cahier des charges. Pour plus d'informations, veuillez consulter le fichier PDF "PeacelandEn.pdf".
+# This project meets the requirements. For more information, please refer to the PDF file "PeacelandEn.pdf".
 
-## 1. Les fichiers
+## 1. Files
 
-Il y a 5 fichiers Scala avec des spécificités différentes :
+There are 5 Scala files with different functionalities:
 
 1. InitDataFrame
-Ce fichier permet de générer le DataFrame de façon aléatoire afin de procéder aux requêtes.
+   This file generates the DataFrame randomly to perform queries.
 
 2. MessageHandler
-Ce fichier permet de gérer les messages qui sont envoyés par chaque citoyen.
+   This file manages the messages sent by each citizen.
 
 3. AlertHandler
-Ce fichier permet de gérer les alertes (lorsqu'un citoyen devient dangereux, le système le signale automatiquement).
+   This file manages alerts (when a citizen becomes dangerous, the system automatically signals it).
 
 4. QueryHandler
-Ce fichier gère les différentes requêtes développées pour ce projet :
+   This file handles various queries developed for this project:
 
+    1. findMostHeardWord: This query displays the most frequently sent messages by the system. In our case, it is the word "malade" (sick).
+    2. allCitizensWhoseNeighborsAreNervous: This query displays the residents who have been in contact with unfriendly neighbors.
+    3. getUnsafePlaces: This query displays dangerous locations.
 
-    1. findMostHeardWord : cette requête affiche les messages les plus envoyés par le système. Dans notre cas, il s'agit du mot "malade".
-    2. allCitizenWhoseNearbyAreNervous: Cette requête affiche les résidents qui ont été en contact avec des voisins méchants.
-    3. getUnsafePlace: Cette requête affiche les endroits dangereux.
+## 2. Execution
 
-## 2. Exécution
-
-Pour ce projet, j'utilise la version 11 de Java, Scala 2.13.8, sbt 1.8.3 et Spark 3 afin de bénéficier de Catalyst. Si vous êtes sur Mac, vous pouvez effectuer la commande suivante :
+For this project, I am using Java version 11, Scala 2.13.8, sbt 1.8.3, and Spark 3 to benefit from Catalyst. If you are on a Mac, you can execute the following command:
 
 **export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-11.0.10.jdk**
-Après avoir installé les différentes versions, exécutez la commande suivante :
 
-**sbt run**
+After installing the different versions, run the following command:
+
+
+***sbt assembly***
+
+***spark-submit --class com.mbuma.spark.Main yourpath/peaceland/target/scala-2.12/Peaceland-assembly-0.1.jar***

@@ -1,0 +1,70 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/AlertHandler.scala:3:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/AlertHandler.scala:4:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/AlertHandler.scala:5:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.log4j._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/AlertHandler.scala:9:41: not found: type DataFrame[0m
+[0m[[0m[31merror[0m] [0m[0m  def triggerAlertQuery(df: DataFrame): DataFrame = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/AlertHandler.scala:9:29: not found: type DataFrame[0m
+[0m[[0m[31merror[0m] [0m[0m  def triggerAlertQuery(df: DataFrame): DataFrame = {[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/InitDataFrame.scala:3:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/InitDataFrame.scala:4:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/InitDataFrame.scala:5:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.log4j._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/InitDataFrame.scala:9:22: not found: type SQLContext[0m
+[0m[[0m[31merror[0m] [0m[0m  def sqlContext() : SQLContext = {[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/InitDataFrame.scala:10:20: not found: type SparkConf[0m
+[0m[[0m[31merror[0m] [0m[0m    val conf = new SparkConf()[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/InitDataFrame.scala:14:14: not found: value SparkContext[0m
+[0m[[0m[31merror[0m] [0m[0m    val sc = SparkContext.getOrCreate(conf)[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/InitDataFrame.scala:15:9: not found: type SQLContext[0m
+[0m[[0m[31merror[0m] [0m[0m    new SQLContext(sc)[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/InitDataFrame.scala:18:19: not found: type DataFrame[0m
+[0m[[0m[31merror[0m] [0m[0m  def loadData(): DataFrame = {[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/Main.scala:4:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.log4j._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/Main.scala:9:5: not found: value Logger[0m
+[0m[[0m[31merror[0m] [0m[0m    Logger.getLogger("org").setLevel(Level.ERROR)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/Main.scala:9:38: not found: value Level[0m
+[0m[[0m[31merror[0m] [0m[0m    Logger.getLogger("org").setLevel(Level.ERROR)[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/QueryHandler.scala:4:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/QueryHandler.scala:5:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/QueryHandler.scala:6:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.log4j._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/QueryHandler.scala:27:57: not found: type DataFrame[0m
+[0m[[0m[31merror[0m] [0m[0m  def allCitizenWhoseNearbyAreNervous(df : DataFrame) : DataFrame = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/QueryHandler.scala:27:44: not found: type DataFrame[0m
+[0m[[0m[31merror[0m] [0m[0m  def allCitizenWhoseNearbyAreNervous(df : DataFrame) : DataFrame = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/QueryHandler.scala:65:40: not found: type DataFrame[0m
+[0m[[0m[31merror[0m] [0m[0m  def getUnsafePlace(df : DataFrame) : DataFrame = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/QueryHandler.scala:65:27: not found: type DataFrame[0m
+[0m[[0m[31merror[0m] [0m[0m  def getUnsafePlace(df : DataFrame) : DataFrame = {[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m23 errors found[0m
