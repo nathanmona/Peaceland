@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="Peacealand">
-    <output-path>$PROJECT_DIR$/out/artifacts/Peacealand</output-path>
-    <root id="archive" name="Peacealand.jar">
-      <element id="module-output" name="Peaceland" />
-    </root>
-  </artifact>
-</component>
