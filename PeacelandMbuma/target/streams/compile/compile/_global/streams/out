@@ -1,0 +1,19 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/QueryHandler.scala:14:43: not found: type DataFrame[0m
+[0m[[0m[31merror[0m] [0m[0m  def findMostHeardWord(df : DataFrame) : DataFrame = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/QueryHandler.scala:14:30: not found: type DataFrame[0m
+[0m[[0m[31merror[0m] [0m[0m  def findMostHeardWord(df : DataFrame) : DataFrame = {[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/QueryHandler.scala:22:57: not found: type DataFrame[0m
+[0m[[0m[31merror[0m] [0m[0m  def allCitizenWhoseNearbyAreNervous(df : DataFrame) : DataFrame = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/QueryHandler.scala:22:44: not found: type DataFrame[0m
+[0m[[0m[31merror[0m] [0m[0m  def allCitizenWhoseNearbyAreNervous(df : DataFrame) : DataFrame = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/QueryHandler.scala:60:40: not found: type DataFrame[0m
+[0m[[0m[31merror[0m] [0m[0m  def getUnsafePlace(df : DataFrame) : DataFrame = {[0m
+[0m[[0m[31merror[0m] [0m[0m                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/nathan_jobs/Documents/scala/Peaceland/src/main/scala/QueryHandler.scala:60:27: not found: type DataFrame[0m
+[0m[[0m[31merror[0m] [0m[0m  def getUnsafePlace(df : DataFrame) : DataFrame = {[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m
